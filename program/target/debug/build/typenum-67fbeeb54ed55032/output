@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/maxmohammadi/solana-crowdfund/program/target/debug/build/typenum-67fbeeb54ed55032/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/maxmohammadi/solana-crowdfund/program/target/debug/build/typenum-67fbeeb54ed55032/out/op.rs
